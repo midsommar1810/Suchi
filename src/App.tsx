@@ -15,14 +15,14 @@ export default function Page() {
       "No",
       "Are you sure?",
       "What if I asked really nicely?",
-      "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
-      "PLEASE POOKIE",
+      "Chudi Payal launga",
+      "With Cadbury Silk Heart Blush on top",
+      "What about a Butterscotch Icecream",
+      "PLEASE BACHOO",
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to abhishek's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
@@ -44,7 +44,7 @@ export default function Page() {
         <>
           <img
             className="h-[200px]"
-            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB4MHY5bGI5aDM0MnFyY2M2NXd3ZWVteGduOXE0b2swdmJ1ZDhtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tshmvVDvKNmaXZ2fCN/giphy.gif"
           />
           <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
           <div className="flex items-center">
